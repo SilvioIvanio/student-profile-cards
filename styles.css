@@ -29,6 +29,11 @@ header {
     align-items: center;
 }
 
+.fun-fact {
+    font-style: italic;
+    color: #555;
+}
+
 .profile-card:hover {
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.8);
     transition: 0.5s;
