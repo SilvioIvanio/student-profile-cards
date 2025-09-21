@@ -3,6 +3,8 @@ body {
     padding: 16px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-image:url(img/bg.jpg) ;
+    display: flex;
+    flex-direction: column;
 }
 
 header {
@@ -63,7 +65,7 @@ footer {
 
 }
 
-@media (min-width: 760px) {
+@media (min-width: 762px) {
   #card-container {
     grid-template-columns: repeat(2, 1fr);
   }
