@@ -57,6 +57,10 @@ header {
 
 footer {
     text-align: center;
+    color: white;
+    margin-top: 40px;
+    font-size: 18px;
+
 }
 
 @media (min-width: 600px) {
