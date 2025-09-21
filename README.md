@@ -1,6 +1,17 @@
-Student Profile Cards is a project made with HTML and CSS  that displays a set of student profiles from DC comics in a card-based layout. Each card includes a student's photo, name, and a short description. The core structure is built in index.html, where each student card is defined using semantic HTML elements like section, img, anchor, and h2. 
+# Student Profile Cards
 
-Styling is handled in styles.css, which uses Flexbox to arrange the cards responsively and applies modern design touches like shadows, rounded corners, and hover effects. 
+A responsive HTML and CSS project that displays student profiles from DC Comics.
 
+## Features
 
+- Responsive card layout
+- Student photos, names, and descriptions
+- Semantic HTML structure
+- Modern design elements
 
+## Technical Implementation
+
+- **HTML Structure**: Built in `index.html` using semantic elements
+- **CSS Styling**: Implemented in `styles.css`
+- **Layout**: Utilizes `@media` query  for responsive design
+- **Visual Effects**: Includes box shadows, rounded corners, and hover interactions
