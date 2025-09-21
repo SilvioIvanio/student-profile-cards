@@ -1,6 +1,6 @@
 # Student Profile Cards
 
-A responsive HTML and CSS project that displays student profiles from DC Comics.
+A responsive HTML and CSS project that displays student profiles from DC Comics
 
 ## Features
 
