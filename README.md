@@ -16,13 +16,8 @@ A responsive HTML and CSS project that displays student profiles from DC Comics
 - **Layout**: Utilizes `@media` query  for responsive design
 - **Visual Effects**: Includes box shadows, rounded corners, and hover interactions
 
-
-
-
 **Live:** https://silvioivanio.github.io/student-profile-cards/
 
-
-**Reporitory Link:** https://github.com/SilvioIvanio/student-profile-cards
 
 
 
