@@ -18,6 +18,11 @@ A responsive HTML and CSS project that displays student profiles from DC Comics
 
 
 
+
+**Live:** https://silvioivanio.github.io/student-profile-cards/
+
+
 **Reporitory Link:** https://github.com/SilvioIvanio/student-profile-cards
+
 
 
